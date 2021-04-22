@@ -1,0 +1,284 @@
+Uri: https://botclub.net/
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\index.htm
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/attachments/821735295681822723/822055353205391360/discord-avatar-512.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\821735295681822723\822055353205391360\discord-avatar-512.png
+Content Type: image/png
+
+Uri: https://use.fontawesome.com/releases/v5.8.1/css/all.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\releases\v5.8.1\css\all.css
+Content Type: text/css
+
+Uri: https://botclub.net/style.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\style.css
+Content Type: text/css
+
+Uri: https://botclub.net/gerekli.css
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\gerekli.css
+Content Type: text/css
+
+Uri: https://botclub.net/js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\js.html
+Content Type: text/html
+
+Uri: https://botclub.net/hazir
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\hazir.html
+Content Type: text/html
+
+Uri: https://botclub.net/html
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\html.html
+Content Type: text/html
+
+Uri: https://botclub.net/topluluk
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\topluluk.html
+Content Type: text/html
+
+Uri: https://botclub.net/ekip
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\ekip.html
+Content Type: text/html
+
+Uri: https://botclub.net/ortaklar
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\ortaklar.html
+Content Type: text/html
+
+Uri: https://botclub.net/sss
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\sss.html
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/attachments/830557697468137523/834048683263655996/discord-avatar-512-HL6U3.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\830557697468137523\834048683263655996\discord-avatar-512-HL6U3.png
+Content Type: image/png
+
+Uri: https://www.youtube.com/c/Lordcreative/featured
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\c\Lordcreative\featured.html
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/attachments/817327388605939743/822047215429484564/discord-avatar-256-animated_3.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\817327388605939743\822047215429484564\discord-avatar-256-animated_3.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/attachments/817327388605939743/822047737087393792/discord-avatar-256-animated_4.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\817327388605939743\822047737087393792\discord-avatar-256-animated_4.gif
+Content Type: image/gif
+
+Uri: https://kit.fontawesome.com/c8e4d183c2.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\c8e4d183c2.js
+Content Type: text/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://media.discordapp.net/attachments/762318400579567697/833837344423411753/Discord-LogoWordmark-White.webp
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\762318400579567697\833837344423411753\Discord-LogoWordmark-White.webp
+Content Type: image/webp
+
+Uri: https://code.jquery.com/jquery-3.4.1.slim.min.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\jquery-3.4.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\npm\popper.js@1.16.0\dist\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://botclub.net/script.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\script.js
+Content Type: application/javascript
+
+Uri: https://i.pinimg.com/originals/6d/fb/c7/6dfbc74564ed8ed039734fa91b2d8f9a.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\originals\6d\fb\c7\6dfbc74564ed8ed039734fa91b2d8f9a.gif
+Content Type: image/gif
+
+Uri: https://i.hizliresim.com/0cJUCW.jpg
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\0cJUCW.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins&display=swap
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\css2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lato
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\css.css
+Content Type: text/css
+
+Uri: https://discord.js.org/static/logo-square.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\static\logo-square.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\ajax\libs\jquery\3.1.0\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://support.upwork.com/hc/article_attachments/360040474034/chatbot-data.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\hc\article_attachments\360040474034\chatbot-data.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/avatars/592603392195428374/d9d4f4f0bef4285e17341f79b74aaa8b.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\592603392195428374\d9d4f4f0bef4285e17341f79b74aaa8b.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/avatars/664146094183284776/a_d5c6b0241107551ebf4231ede627f6d3.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\664146094183284776\a_d5c6b0241107551ebf4231ede627f6d3.png
+Content Type: image/png
+
+Uri: http://www.oztekhaberlesme.com.tr/img/login.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\img\login.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/qUDDJxh9Df
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\qUDDJxh9Df.html
+Content Type: text/html
+
+Uri: https://cdn.discordapp.com/icons/799726841236684801/a_2c3fa1eac558685e8135914fc0e578c4.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\icons\799726841236684801\a_2c3fa1eac558685e8135914fc0e578c4.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/586822327568695317/9e853753fa1476739cef5145c520c94b.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\586822327568695317\9e853753fa1476739cef5145c520c94b.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/attachments/798482498820243516/830581873989255168/f513998363ebd1c9cc5f582c023b3e6d.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\798482498820243516\830581873989255168\f513998363ebd1c9cc5f582c023b3e6d.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/830468648341602385/830566633701113866/hiro-and-zero-two-darling-in-the-franxx-photo-u1.jpg
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\830468648341602385\830566633701113866\hiro-and-zero-two-darling-in-the-franxx-photo-u1.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/avatars/790176397758824458/19cc9919242afc18714f782b44f919a2.png?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\790176397758824458\19cc9919242afc18714f782b44f919a2.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/avatars/800708440333877279/03bf9c5422745f568cf965030547bd0a.png?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\800708440333877279\03bf9c5422745f568cf965030547bd0a.png
+Content Type: image/png
+
+Uri: https://api.slushie.gg/avatar/310429317140316173
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatar\310429317140316173
+Content Type: 
+
+Uri: https://cdn.discordapp.com/avatars/762759063959633970/a_25864ba225a5e82facec3b9ee7b728c0.gif?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\762759063959633970\a_25864ba225a5e82facec3b9ee7b728c0.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/avatars/814053584517070898/a_69d46baf35303a16bc3b00015af1811b.gif?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\814053584517070898\a_69d46baf35303a16bc3b00015af1811b.gif
+Content Type: image/gif
+
+Uri: https://api.slushie.gg/avatar/540591256657461249
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatar\540591256657461249
+Content Type: 
+
+Uri: https://api.slushie.gg/avatar/739411430171738142
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatar\739411430171738142
+Content Type: 
+
+Uri: https://cdn.discordapp.com/avatars/296279560864006144/5d76b58fe3b250efdcbdaef9c757d46e.png?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\296279560864006144\5d76b58fe3b250efdcbdaef9c757d46e.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/avatars/640966555232108575/a_ca7b36254e1ab62966cec1fcd248554c.gif?size=256
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatars\640966555232108575\a_ca7b36254e1ab62966cec1fcd248554c.gif
+Content Type: image/gif
+
+Uri: https://api.slushie.gg/avatar/799308276746551356
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatar\799308276746551356
+Content Type: 
+
+Uri: https://api.slushie.gg/avatar/808335724100976661
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\avatar\808335724100976661
+Content Type: 
+
+Uri: https://cdn.discordapp.com/attachments/828997367675224127/829001284451303424/Discord_Banner.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\828997367675224127\829001284451303424\Discord_Banner.png
+Content Type: image/png
+
+Uri: https://cdn.discordapp.com/attachments/828997367675224127/829001306869858345/lol1.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\828997367675224127\829001306869858345\lol1.png
+Content Type: image/png
+
+Uri: https://images2.alphacoders.com/112/thumbbig-1128586.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\112\thumbbig-1128586.png
+Content Type: image/png
+
+Uri: https://i.imgur.com/icxRhjX.jpg
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\icxRhjX.jpg
+Content Type: image/jpeg
+
+Uri: https://i.pinimg.com/originals/95/00/2f/95002f8f70bfaad8ef6fc4570cda8d00.png
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\originals\95\00\2f\95002f8f70bfaad8ef6fc4570cda8d00.png
+Content Type: image/png
+
+Uri: https://hwp.com.tr/wp-content/uploads/2020/11/discord-logo.jpg
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\wp-content\uploads\2020\11\discord-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.discordapp.com/attachments/828997367675224127/829010449051811911/discord-avatar-512-animated.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\828997367675224127\829010449051811911\discord-avatar-512-animated.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/icons/720554756556324914/a_3368c4fc494d8bddecd344d045872582.gif?size=1024
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\icons\720554756556324914\a_3368c4fc494d8bddecd344d045872582.gif
+Content Type: image/gif
+
+Uri: https://emoji.gg/assets/emoji/2191_wumpus_nitro.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\assets\emoji\2191_wumpus_nitro.gif
+Content Type: image/gif
+
+Uri: https://i.redd.it/03xbhgf1w7w51.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\03xbhgf1w7w51.gif
+Content Type: image/gif
+
+Uri: https://cdn.discordapp.com/attachments/798482498820243516/831119682529394718/749044136589393960.gif
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\attachments\798482498820243516\831119682529394718\749044136589393960.gif
+Content Type: image/gif
+
+Uri: https://yt3.ggpht.com/ytc/AAUvwniEUaBNWbH9Pk7A1cmIBdxnYt0YYrgNKx5h8grSMA=s900-c-k-c0x00ffffff-no-rj
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\ytc\AAUvwniEUaBNWbH9Pk7A1cmIBdxnYt0YYrgNKx5h8grSMA=s900-c-k-c0x00ffffff-no-rj.jpeg
+Content Type: image/jpeg
+
+Uri: https://discord.com/oauth2/authorize?response_type=code&redirect_uri=https:%2F%2Fbotclub.net%2Fcallback&scope=identify guilds&client_id=830551312755720272
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://botclub.net/hata?statuscode=137&message=Kodları Görebilmek İçin Discord Sunucumuza Katılmanız Ve Siteye Giriş Yapmanız Gerekmektedir!
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\hata.html
+Content Type: text/html
+
+Uri: https://botclub.net/hata?statuscode=137&message=Kodları Görebilmek İçin Discord Sunucumuza Katılmanız | Siteye Giriş Yapmanız Gerekmektedir.
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\hata-1.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/KxWY5y6wFh
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\KxWY5y6wFh.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/bZr5RCHPky
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\bZr5RCHPky.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/3Ba2F5P8b5
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\3Ba2F5P8b5.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/hrAMHrcByf
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\hrAMHrcByf.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/zJ4NKdMWEP
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\zJ4NKdMWEP.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/k96jguNuT8
+File Name: C:\Users\ASUS\Desktop\random\site çalmak\botclub.net\invite\k96jguNuT8.html
+Content Type: text/html
+
